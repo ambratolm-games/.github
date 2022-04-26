@@ -1,6 +1,6 @@
-# ![Icon](./icon_32x32.jpg) Ambratolm Games
+# ![Icon](https://github.com/ambratolm-games/.github/raw/main/profile/icon_32x32.jpg) Ambratolm Games
 
-![Screenshot](./screenshot.gif?raw=true)
+![Screenshot](https://github.com/ambratolm-games/.github/raw/main/profile/screenshot.gif)
 
 Find other game related repositories in:
 - 🔍 [Simple Works](https://github.com/simple-works?q=game)

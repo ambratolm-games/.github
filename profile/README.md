@@ -1,11 +1,3 @@
-# ![Icon](https://github.com/ambratolm-games/.github/raw/main/profile/icon_32x32.jpg) Ambratolm Games
-
-🕹️ Find other game related repositories in:
-- 📂 [Practical Works 🔍 Game](https://github.com/practical-works?q=game)
-- 📂 [Simple Works 🔍 Game](https://github.com/simple-works?q=game)
-
-<hr />
-
-![Screenshot](https://github.com/ambratolm-games/.github/raw/main/profile/screenshot.gif)
-
-
+🕹️ Find other game-related repositories :
+- 🔍 [Search `Game` _in_ **📂 Practical Works**](https://github.com/practical-works?q=game)
+- 🔍 [Search `Game` _in_ **📂 Simple Works**](https://github.com/simple-works?q=game)
